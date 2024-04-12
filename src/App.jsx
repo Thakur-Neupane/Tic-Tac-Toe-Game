@@ -1,6 +1,6 @@
 
 import './index.css'
-import TicTacToe from './Components/TicTacToe'
+import { TicTacToe } from './Components/TicTacToe/TicTacToe';
 function App() {
 
   return (
